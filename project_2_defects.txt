@@ -1,0 +1,7 @@
+misspelled "medium"
+days until due are miscalculated
+editing task shows default date instead of assigned date
+no Accept button in edit activity
+Create account asks for actual name; not needed
+No way to delete user
+Context menu offers way to mark task completed; not needed
